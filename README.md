@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/DoHGKMzgXl56jRQfvX/giphy.gif" alt="Purple Moon Pink GIF by dualvoidanima" width="600"/>
-</p>
+
+
 
 
 # Hello, I'm Ishaan Khan! 👋  
